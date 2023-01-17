@@ -1,4 +1,4 @@
 [core]
     remote = remote-storage
 ['remote "remote-storage"']
-    url = ../home/seigers/dvcbackup
+    url = /home/seigers/dvcbackup
